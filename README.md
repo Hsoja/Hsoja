@@ -5,7 +5,8 @@
 <p align="center">
   I build web apps and AI-powered tools with a <b>security-first</b> mindset,<br>
   learning by shipping real projects: from Python APIs to modern TypeScript front ends.
-  My web site: https://hsoja.github.io/Portfolio/
+  <br>
+  My website: https://hsoja.github.io/Portfolio/
 </p>
 
 <p align="center">
