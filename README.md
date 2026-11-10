@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Katherine 👋</h1>
 
-<h3 align="center">Software Engineering Student · Conestoga College · Waterloo, ON 🇨🇦</h3>
+<h3 align="center">Software Engineering Student · ON, Canada 🇨🇦</h3>
 
 <p align="center">
   I build web apps and AI-powered tools with a <b>security-first</b> mindset,<br>
@@ -17,7 +17,7 @@
 
 ## 🧭 About Me
 
-- 🎓 **Software Engineering student** at Conestoga College in Waterloo, Ontario.
+- 🎓 **Software Engineering student** 
 - 🔐 I care about building software that is **secure by default**: tested, scanned and documented before it ships.
 - 🤖 Interested in how **AI and automation** can remove manual work for small businesses.
 - 🌱 I learn best by building, and every project here is a step in that process.
