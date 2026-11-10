@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/katherine-gonz%C3%A1lez-455538314"><img src="https://img.shields.io/badge/LinkedIn-Katherine%20Gonz%C3%A1lez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Hsoja?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Hsoja-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories"></a>
-  <img src="https://img.shields.io/badge/Location-Waterloo%2C%20ON-555555?style=flat&logo=googlemaps&logoColor=white" alt="Location: Waterloo, ON">
+  <img src="https://img.shields.io/badge/Location-Waterloo%2C%20ON-555555?style=flat&logo=googlemaps&logoColor=white" alt="Location: ON, Canada">
 </p>
 
 ---
