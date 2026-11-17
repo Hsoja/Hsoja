@@ -62,7 +62,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| 🤖 **[Operativa.ia](https://github.com/Hsoja/Operativa.ia)** | Multi-tenant AI operations platform for small service businesses: 24/7 lead capture on web and WhatsApp, coverage checks, deposit-backed booking and CASL-compliant reactivation. *Work in progress.* | Python · FastAPI · React · TypeScript · Streamlit |
+| 🤖 **[Operativa.ia]([https://github.com/Hsoja/Operativa.ia)](https://hsoja.github.io/Operativa.ia/)** | Multi-tenant AI operations platform for small service businesses: 24/7 lead capture on web and WhatsApp, coverage checks, deposit-backed booking and CASL-compliant reactivation. *Work in progress.* | Python · FastAPI · React · TypeScript · Streamlit |
 | 🏠 **[Gloz](https://github.com/Hsoja/Gloz)** | Secure property listings web app: search homes, create an account and keep a shortlist. | Python · Flask · SQLite · HTML/CSS/JS |
 | 📈 **[TradePro](https://github.com/Hsoja/TradePro)** · [live site](https://hsoja.github.io/TradePro/) | Market news portal with live prices, charts and an economic calendar in one fast static site. | Astro · TypeScript · GitHub Pages |
 
