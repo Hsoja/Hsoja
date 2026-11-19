@@ -65,7 +65,7 @@
 | 🤖 **[Operativa.ia](https://hsoja.github.io/Operativa.ia/)** · [live site](https://hsoja.github.io/Operativa.ia/) | Multi-tenant AI operations platform for small service businesses: 24/7 lead capture on web and WhatsApp, coverage checks, deposit-backed booking and CASL-compliant reactivation. *Work in progress.* | Python · FastAPI · React · TypeScript · Streamlit |
 | 🏠 **[Gloz](https://github.com/Hsoja/Gloz)** | Secure property listings web app: search homes, create an account and keep a shortlist. | Python · Flask · SQLite · HTML/CSS/JS |
 | 📈 **[TradePro](https://github.com/Hsoja/TradePro)** · [live site](https://hsoja.github.io/TradePro/) | Market news portal with live prices, charts and an economic calendar in one fast static site. | Astro · TypeScript · GitHub Pages |
-| 📈 **[Quant-lab]([https://hsoja.github.io/quant-lab/])** · [live site](https://hsoja.github.io/quant-lab/) | Market news portal with live prices, charts and an economic calendar in one fast static site. | Python · TypeScript · GitHub Pages |
+| 📈 **[Quant-lab]([https://hsoja.github.io/quant-lab/])** · [live site](https://hsoja.github.io/quant-lab/) | Is a tool that separates what is actually verified in official reports with an exact citation from what is only a Monte Carlo simulated scenario, so you can decide based on facts and probabilities, not gut feelings. | Python · TypeScript · GitHub Pages · SEC EDGAR · XBRL · Monte Carlo · NumPy |
 
 <sub>Each project includes tests, automated security checks and a security report.</sub>
 
